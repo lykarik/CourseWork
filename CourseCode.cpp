@@ -1,4 +1,4 @@
- #include <iostream>
+#include <iostream>
 #include <string.h>
 #include <stdio.h>
 
@@ -6,6 +6,7 @@
 #define CRYPTFILE   "/home/rideer/rideer/Study/CourseWork/cryptedtext.txt"
 #define DECRYPTFILE "/home/rideer/rideer/Study/CourseWork/decryptedtext.txt"
 
+//#define KEY "as28zw37q8397342ui238e2twqm2ewp1"
 //#define KEY "as28zw37q8397342ui238e2twqm2ewp1"
 #define KEY "98765432109876543210987654321098"
 
